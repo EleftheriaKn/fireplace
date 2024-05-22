@@ -10,5 +10,12 @@
 }
 body {
     font-family: "Roboto-Thin", sans-serif;
+    font-weight: thin;
     height: 100vh;
+}
+
+.navbar {
+    list-style: none;
+    display:flex;
+    align-items: center;
 }
